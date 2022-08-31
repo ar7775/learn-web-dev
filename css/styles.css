@@ -1,0 +1,16 @@
+body {
+    background-color: #E8F9FD;
+}
+hr{
+    border-style: dotted none none ;
+    height: 0px;
+    border-color: gainsboro;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: #0AA1DD;
+}
+h3{
+    color: #0AA1DD;
+}
